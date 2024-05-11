@@ -1,0 +1,46 @@
+body {
+    background-image: linear-gradient(#0099ff, #ffffff); 
+  }
+      
+  #bigcard {
+      width: 80%;  
+      height: 100%;
+      background-color: rgba(255, 255, 255, 0.296); 
+      margin-top:139px ;
+      margin-left: 15%; 
+      margin-right: 0%;
+      border:3px solid rgb(0, 0, 0); position: relative;
+      
+  }
+  .card-img-top{
+      border:1px solid rgb(0, 0, 0);
+      width: 100px;
+      height: 600px;
+  }
+  
+  #egitim{
+      font-size: 50px; 
+      margin-left: 30%;
+     
+  }
+  
+  #egitim1{
+    font-size: 35px;
+  }
+  
+  #bodyiletisim {
+      margin-left: 15%;
+      margin-top: 0%;
+      width: 515px;
+      background-color: rgba(50, 60, 67, 0.296);  
+      border:3px solid rgb(0, 0, 0); ;
+     
+      
+  }
+  #iletisim {
+      font-size: 30px;
+      margin-left:20% ;
+  }
+  #tlf{
+    font-size: 20px;
+  }
